@@ -21,7 +21,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 * [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualizations for learning how graph traversal algorithms work.
 * [W3School](https://www.w3schools.in/data-structures-tutorial/intro/) - Data Structures tutorial.
-* [CodeChef](https://www.codechef.com/LEARNDSA/) - Learning DSA by practice on Codechef
+* [CodeChef](https://www.codechef.com/roadmap/algorithms) - Learning DSA by practice on Codechef
 * [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
@@ -63,7 +63,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Part II focuses on graph- and string-processing algorithms.
 * [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministered by Tomas Cormen and Devin Balkcom.
 * [MIT - 6-006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - Well explained algorithms.
-* [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) - Similar to the previous one, but with different algorithms.
+* [MIT - 6-046j](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video_galleries/video-lectures/) - Similar to the previous one, but with different algorithms.
 * [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - An easy and well-explained introduction to algorithms.
 * [MIT 18-409 - Topics in Theoretical Computer Science: An Algorithmist's Toolkit](https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/) - It covers a collection of geometric techniques that apply broadly in modern algorithm design.
 * [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Python-based Algorithms course.
@@ -90,9 +90,10 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [The Algorithm Design Manual](http://www.algorist.com/) - Easy to read and full of real-world examples.
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
-* [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action) - A different and a great way to introduce algorithms and data structures that can be used at work.
+* [Advanced Algorithms and Data Structures](https://www.manning.com/books/advanced-algorithms-and-data-structures) - A different and a great way to introduce algorithms and data structures that can be used at work.
 * [Algorithmic Puzzles](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445) - A very accessible illustration of algorithms in the forms of puzzles. No programming experience is required!
 * [Standford CS166](https://web.stanford.edu/class/cs166/) - Standford CS166, a course in the design, analysis, and implementation of data structures.
+* [Grokking Data Structures](https://www.manning.com/books/grokking-data-structures) - Grokking Data Structures carefully guides you from the most basic data structures like arrays or linked lists all the way to powerful structures like graphs. It’s perfect for beginners.
 
 ### Algorithm Analysis
 - [Sedgewick & Flajolet. An Introduction to the Analysis of Algorithm](https://www.amazon.com/Introduction-Analysis-Algorithms-Introdu-Algori_p2-ebook/dp/B00B3TB7IQ) - Am advanced complete survey, intended only for the mathematically matured reader.
